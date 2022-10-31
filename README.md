@@ -4,7 +4,9 @@ Count vehicles that cross the line using nvtracker and nvdsanalytics plugins fro
 
 demo links: 
 https://youtu.be/MY3WNxhNDKY
+
 https://youtu.be/_NH2Ern9-QI
+
 https://youtu.be/Tx8CoeWUTV8
 
 ## Setup Steps
